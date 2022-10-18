@@ -77,3 +77,6 @@ zarr/version.py
 #doesnotexist
 #test_sync*
 data/*
+
+# Rever
+rever/
